@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/categories/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/categories/" hreflang="pt"/>
+    
+      <loc>https://Washingtonsilva.github.io/en/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/" hreflang="pt"/>
+    
+      <loc>https://Washingtonsilva.github.io/en/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication_types/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication_types/" hreflang="pt"/>
+    
+      <loc>https://Washingtonsilva.github.io/en/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/tags/" hreflang="en"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/tags/" hreflang="pt"/>
+    
+      <loc>https://Washingtonsilva.github.io/en/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
