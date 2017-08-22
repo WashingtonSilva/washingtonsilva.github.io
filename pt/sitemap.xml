@@ -104,24 +104,6 @@
     
     <url>
     
-      <loc>https://Washingtonsilva.github.io/post/2015-07-23-r-rmarkdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://Washingtonsilva.github.io/publication/bio-dyn-speckle/</loc>
       <lastmod>2009-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -192,26 +174,6 @@
     
     <url>
     
-      <loc>https://Washingtonsilva.github.io/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/" hreflang="en"/>
     
@@ -240,36 +202,6 @@
     
       <loc>https://Washingtonsilva.github.io/publication_types/</loc>
       <lastmod>2009-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/categories/r/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/tags/r-markdown/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/tags/regression/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
     
