@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prof. Washington S. Silva on Prof. Washington S. Silva</title>
-    <link>https://Washingtonsilva.github.io/en/</link>
-    <description>Recent content in Prof. Washington S. Silva on Prof. Washington S. Silva</description>
+    <title>Publications on Prof. Washington S. Silva</title>
+    <link>https://Washingtonsilva.github.io/en/publication/</link>
+    <description>Recent content in Publications on Prof. Washington S. Silva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Washington S. Silva</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/en/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/en/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Biospeckle laser spectral analysis under Inertia Moment, Entropy and Cross-Spectrum methods</title>

@@ -23,6 +23,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication/" hreflang="en"/>
+    
       <loc>https://Washingtonsilva.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -104,6 +107,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication/bio-dyn-speckle/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication/bio-dyn-speckle/" hreflang="en"/>
+    
       <loc>https://Washingtonsilva.github.io/publication/bio-dyn-speckle/</loc>
       <lastmod>2009-06-01T00:00:00+00:00</lastmod>
     </url>
@@ -113,6 +119,9 @@
     
     <url>
     
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication/time-history/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication/time-history/" hreflang="en"/>
+    
       <loc>https://Washingtonsilva.github.io/publication/time-history/</loc>
       <lastmod>2009-05-01T00:00:00+00:00</lastmod>
     </url>
@@ -121,6 +130,9 @@
     
     
     <url>
+    
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication_types/2/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication_types/2/" hreflang="en"/>
     
       <loc>https://Washingtonsilva.github.io/publication_types/2/</loc>
       <lastmod>2009-06-01T00:00:00+00:00</lastmod>
