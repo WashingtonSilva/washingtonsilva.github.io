@@ -53,15 +53,6 @@
     
     <url>
     
-      <loc>https://Washingtonsilva.github.io/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/publication/bio-dyn-speckle/" hreflang="pt"/>
       <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/publication/bio-dyn-speckle/" hreflang="en"/>
     
@@ -112,16 +103,6 @@
     <url>
     
       <loc>https://Washingtonsilva.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://Washingtonsilva.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
