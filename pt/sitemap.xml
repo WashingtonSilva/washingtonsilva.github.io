@@ -90,10 +90,8 @@
     
     <url>
     
-      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/categories/" hreflang="pt"/>
-      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/categories/" hreflang="en"/>
-    
-      <loc>https://Washingtonsilva.github.io/categories/</loc>
+      <loc>https://Washingtonsilva.github.io/tags/can-protocol/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -102,8 +100,10 @@
     
     <url>
     
-      <loc>https://Washingtonsilva.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/categories/" hreflang="pt"/>
+      <xhtml:link rel="alternate" href="https://Washingtonsilva.github.io/en/categories/" hreflang="en"/>
+    
+      <loc>https://Washingtonsilva.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
